@@ -37,6 +37,7 @@ const pinkPrice = .55
 
 
 
+
 // PROBLEM 1
 
 /*
@@ -50,6 +51,22 @@ const pinkPrice = .55
 */
 
 // CODE HERE
+
+let allArray = []
+allArray.push(fujiAcres+galaAcres+pinkAcres)
+
+
+let totalAcres = 0
+
+
+for (let i = 0; i < allArray.length; i++) {
+   totalAcres += allArray[i]
+}
+ console.log(totalAcres)
+
+
+
+
 
 
 
@@ -104,11 +121,20 @@ const pinkPrice = .55
 
 */
 
+//this while loop was written to calculate numer of work days left... unfinished 
+
 let acresLeft = 174 
 let days = 0
 
 // CODE HERE
 
+while(acresLeft>0) {
+
+    days ++
+    acresLeft 
+
+}
+console.log(days)
 
 
 // PROBLEM 4
