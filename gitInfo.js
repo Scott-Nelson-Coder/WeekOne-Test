@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = " Git is a program used for source code management. It was designed to hangle small and large projects "
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,10 @@
 */
 
 //CODE HERE
+
+let gitHubDefinition = " Guthub is essentially a clou service for git repositories, it allow you to upload or download git repositories"
+
+
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +33,8 @@
 
 //CODE HERE
 
+let gitInitDefinition = " git init initializes a local repository in a folder"
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +43,8 @@
 
 //CODE HERE
 
+let gitcloneDefinition = " git clone is used point to an existing repo and make a copy of that repo in a new place."
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +52,8 @@
 */
 
 //CODE HERE
+
+let gitStatusDefinition = " will tell you about the repo, it will display the status of the repo and the staging area "
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +66,10 @@
 
 //CODE HERE
 
+let gitAddDefinition = " adds the files to be tracked. You can add one file at a time or multipule depending on the git code used"
+
+let gitAddCode = " git add ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +81,10 @@
 
 //CODE HERE
 
+let gitCommitDefinition = " git commit creates a snapshot of the files that are being tracked "
+
+let gitCommitCod = ' git commit -m "then a comment for the commit" '
+
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +93,6 @@
 */
 
 //CODE HERE
+
+let gitPushDefinition = " git push updates you git commit changes and sends it to remote repository."
+
